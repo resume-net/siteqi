@@ -1,0 +1,1 @@
+GET http://localhost:3000/content/search/sample?limit=5&offset=0
